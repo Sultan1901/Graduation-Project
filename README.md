@@ -1,7 +1,7 @@
 # Graduattion-Project
 
 ## Description
-### Creating Community of progammars , which users can register with new account 
+### Creating Community WebSite of programmers , which users can register with new account 
 
 ## User Story 
  ### Register : Create New account and active account with confirmation email .
