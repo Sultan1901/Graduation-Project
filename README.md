@@ -14,3 +14,13 @@
  ### Answer : Can add Answers to questions
  ### Admins there have full control like Delete and update and spam users with admin dashboard
  ### Users Can add and update thire own Posts 
+
+
+## UML
+![UML](./finaluml.png)
+
+
+
+
+## ERD
+![](./erd.png)
